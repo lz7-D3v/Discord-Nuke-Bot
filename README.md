@@ -1,6 +1,6 @@
 # Discord Nuke Bot
 
-![preview](discord-nuke-bot-preview.gif)
+![preview](preview.jpg)
 
 > **Aviso:** Este projeto é estritamente para fins **educacionais**.  
 > O autor **@Lz7.D3v** não se responsabiliza por qualquer uso indevido desta ferramenta.
